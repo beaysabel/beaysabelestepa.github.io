@@ -1,0 +1,78 @@
+h1 {
+    color: #F56476;
+    text-align: center;
+}
+
+h2 {
+    color: #FF928B;
+}
+
+h3 {
+    color: #DE7C5A;
+}
+
+body {
+    background-color: #EFE9AE;
+}
+
+.container {
+    background-color: #FDFCFF;
+}
+
+
+/*left col*/
+.deepee {
+    border-radius: 50%;
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+.shiba {
+
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+#left-col {
+    background-color: #FEC3A6;
+    height: 100vh;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+ul {
+    list-style: circle;
+    color: cornsilk;
+    text-align: center;
+}
+
+h4 {
+    color: #CDEAC0
+}
+
+a {
+    color: #FF928B;
+}
+
+
+/*right column*/
+#right-col {
+    margin-left: 10em
+}
+
+
+

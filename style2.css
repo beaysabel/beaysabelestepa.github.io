@@ -1,0 +1,73 @@
+h1 {
+    color: #F56476;
+    text-align: center;
+}
+
+h2 {
+    color: #FF928B;
+
+}
+
+body {
+    background-color: #EFE9AE;
+}
+
+.container {
+    background-color: #FDFCFF;
+}
+
+
+/*left col*/
+
+.shiba {
+
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+.bff {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width="280";
+    height="300";
+    margin-bottom: 2em;
+}
+
+#left-col {
+    background-color: #FEC3A6;
+    height: 100vh;
+
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #FF928B;
+}
+
+
+/*right column*/
+#right-col {
+    margin-left: 10em
+}
+
+h5 {
+    font-size: 1.2em; 
+        color: #989796;
+}
+
+h6 {
+    color: darksalmon;
+    font-family: monospace;
+}
